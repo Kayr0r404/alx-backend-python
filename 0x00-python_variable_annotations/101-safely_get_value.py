@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-from typing import Any, Mapping, Union, TypeVar
-
 """Task 11's module.
 """
+from typing import Any, Mapping, Union, TypeVar
+
 
 
 def safely_get_value(
